@@ -1,4 +1,6 @@
-<div ref="table"></div>
+<template>
+  <div ref="table"></div>
+</template>
 
 <script>
 var Tabulator = require("tabulator-tables");
